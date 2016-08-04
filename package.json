@@ -1,5 +1,5 @@
 {
-  "name": "input-moment",
+  "name": "input-moment-fork",
   "version": "0.2.0",
   "description": "React datetime picker powered by momentjs",
   "main": "index.js",
